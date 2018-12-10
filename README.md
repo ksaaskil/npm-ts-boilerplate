@@ -1,5 +1,7 @@
 # Boilerplate for TypeScript NPM package
 
+[![Build Status](https://dev.azure.com/ksaaskil/my-node-apps/_apis/build/status/ksaaskil.npm-ts-boilerplate)](https://dev.azure.com/ksaaskil/my-node-apps/_build/latest?definitionId=1)
+
 ### Install dependencies
 ```bash
 yarn
